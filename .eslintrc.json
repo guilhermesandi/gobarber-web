@@ -50,6 +50,7 @@
         "allowExpressions": true
       }
     ],
+    "@typescript-eslint/ban-types": "off",
     "no-use-before-define": "off",
     "prettier/prettier": "error",
     "import/extensions": [
